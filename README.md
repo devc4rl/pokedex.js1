@@ -18,10 +18,9 @@ Projeto baseado em uma Pokédex web que consome a [PokéAPI](https://pokeapi.co/
 ## 🧩 Melhorias Aplicadas
 
 - Dark mode visual com fundo escuro e contraste otimizado
-- Tipos de Pokémon traduzidos para português
 - Animações de hover e transições aplicadas nos cards
 - Refino no layout responsivo (grids, espaçamentos e escala)
-- Fontes com peso e legibilidade melhorados
+- Fontes diferentes
 
 ---
 
