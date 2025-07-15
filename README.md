@@ -23,8 +23,8 @@ Uma Pokédex responsiva e dinâmica construída com HTML, CSS, JavaScript e cons
 
 - 🔍 Consulta em tempo real dos Pokémon (até 151)
 - 📱 Layout 100% responsivo e adaptado para dispositivos mobile e telas ultra-wide
-- ⚙️ Paginação dinâmica com botão “Load More”
-- 💬 Tipos de Pokémon traduzidos e estilizados
+- ⚙️ Paginação dinâmica com botão “Carregar mais Pokémons”
+- 💬 Tipos de Pokémon e suas evoluções
 
 ---
 
