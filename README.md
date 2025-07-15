@@ -41,9 +41,9 @@ Uma Pokédex responsiva e dinâmica construída com HTML, CSS, JavaScript e cons
   }
 
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sua-pokedex.git
+git clone https://github.com/devc4rl/pokedex.js1.git
 
 # 2. Acesse o diretório
-cd sua-pokedex
+cd pokedex.js1
 
 # 3. Abra o index.html em um navegador
